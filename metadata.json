@@ -1,0 +1,6 @@
+{
+  "name": "WADIE INDUSTRIELLE",
+  "description": "Corporate website, bilingual equipment & services catalog, appointment booking, and administration portal for WADIE INDUSTRIELLE in Yellel, Relizane, Algeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
